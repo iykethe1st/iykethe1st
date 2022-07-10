@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iykethe1st
 - 👀 
-- 🌱 I am...
+- 🌱 I am... 🤔
 - 💞️ 
-- 📫 How to reach me: iykethe1st@outlook.com. Discord: the1st#0223 Twitter: iykethe1st
+- 📫 How to reach me 🥴: iykethe1st@outlook.com. Discord: the1st#0223 Twitter: iykethe1st
 - 👀 Astral! 
 
 <!---
