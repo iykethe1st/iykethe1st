@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iykethe1st, a Blockchain Developer
-- 👀 I’m interested in meeting people and helping each other grow
+- 👋 Hi, I’m @iykethe1st
+- 👀 
 - 🌱 I am...
-- 💞️ I’m looking to collaborate on Advanced Blockchain & Python Projects
+- 💞️ 
 - 📫 How to reach me: iykethe1st@outlook.com. Discord: the1st#0223 Twitter: iykethe1st
 - 👀 Astral! 
 
