@@ -2,7 +2,9 @@
 - 👀 
 - 🌱 I am... 🤔
 - 💞️ 
-- 📫 reach me? 🥴: iykethe1st@outlook.com. Discord: the1st#0223 Twitter: X_iyke
+- 📫 reach me? 🥴: iykethe1st@outlook.com. 
+- Discord: the1st#0223 
+- Twitter: X_iyke
 - 👀 Astral 5D! 
 
 <!---
