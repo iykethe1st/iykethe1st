@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iykethe1st
-- 👀 
 - 🌱 I am... 🤔
-- 💞️ 
 - 📫 reach me? 🥴: iykethe1st@outlook.com. 
 - Discord: the1st#0223 
 - Twitter: X_iyke
