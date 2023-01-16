@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iykethe1st
-- 🌱 I am... 🤔
-- 📫 reach me? 🥴: iykethe1st@outlook.com. 
+- 🌱 Software Engineer 
+- 📫 reach me? 🥴: iykethe1st@gmail.com. 
 - Discord: the1st#0223 
 - Twitter: X_iyke
 - 👀 Astral 5D! 
