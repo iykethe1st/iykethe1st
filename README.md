@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iykethe1st
 - 🌱 Software Engineer 
-- 📫 reach me? 🥴: iykethe1st@gmail.com. 
+- 📫 reach me: iykethe1st@gmail.com. 
 - Discord: the1st#0223 
-- Twitter: X_iyke
+- Twitter: IroncladCodes
 - 👀 Astral 5D! 
 
 <!---
