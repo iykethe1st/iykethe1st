@@ -60,7 +60,9 @@
 
 ## 🔗 Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ikenna-udemezue/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ikenna-udemezue/)
+[![portfolio](https://img.shields.io/badge/portfolio-0769AD?style=for-the-badge&logo=portfolio&logoColor=white)](https://iykethe1st.vercel.app/)
+
 
 
 <!---
