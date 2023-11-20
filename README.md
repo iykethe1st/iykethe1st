@@ -30,6 +30,7 @@
 ### Back-End Development
 
 ![express/nodejs](https://img.shields.io/badge/expressjs-0769AD?style=for-the-badge&logo=express&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-0769AD?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0769AD?style=for-the-badge&logo=Django&logoColor=white)
 ![websocket](https://img.shields.io/badge/websocket-0769AD?style=for-the-badge&logo=websocket&logoColor=white)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
