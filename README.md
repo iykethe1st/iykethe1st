@@ -18,7 +18,7 @@
 
 ![react](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)
 ![nextjs](https://img.shields.io/badge/NextJS-00DC82?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![vuejs](https://img.shields.io/badge/Vue-0769AD?style=for-the-badge&logo=vue&logoColor=white)
+![vuejs](https://img.shields.io/badge/VueJS-0769AD?style=for-the-badge&logo=vuejs&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
