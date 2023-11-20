@@ -2,8 +2,6 @@
 - 🌱 FullStack Software Engineer | Blockchain/Web3 
 - 📫 iykethe1st@gmail.com. 
 - Discord: the1st#0223
-- [![](https://img.shields.io/badge/0769AD?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/X_Ikenna): [X_Ikenna](https://twitter.com/X_Ikenna)
-- 👀 Astral 5D!
 
 
 ## 🛠️ Skills
@@ -61,6 +59,7 @@
 ## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ikenna-udemezue/)
+[![x](https://img.shields.io/badge/x-FFFFFF?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/X_Ikenna)
 [![vercel](https://img.shields.io/badge/portfolio-0769AD?style=for-the-badge&logo=vercel&logoColor=white)](https://iykethe1st.vercel.app/)
 
 
