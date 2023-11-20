@@ -59,7 +59,7 @@
 ## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ikenna-udemezue/)
-[![](https://img.shields.io/badge/x-FFFFFF?style=for-the-badge&logo=logoColor=white)](https://twitter.com/X_Ikenna)
+[![twitter](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/X_Ikenna)
 [![vercel](https://img.shields.io/badge/portfolio-0769AD?style=for-the-badge&logo=vercel&logoColor=white)](https://iykethe1st.vercel.app/)
 
 
