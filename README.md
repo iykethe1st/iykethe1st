@@ -11,7 +11,7 @@
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/Php-purple?style=for-the-badge&logo=php&logoColor=white)
+![typeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=php&logoColor=white)
 
 ### Front-End Development
@@ -27,13 +27,13 @@
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![react](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)
-![angular](https://img.shields.io/badge/Angular-0769AD?style=for-the-badge&logo=angular&logoColor=white)
+![vue](https://img.shields.io/badge/Vue-0769AD?style=for-the-badge&logo=vue&logoColor=white)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
 
 ### Back-End Development
 
-![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
 ![express/nodejs](https://img.shields.io/badge/expressjs-0769AD?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0769AD?style=for-the-badge&logo=Django&logoColor=white)
 ![websocket](https://img.shields.io/badge/websocket-0769AD?style=for-the-badge&logo=websocket&logoColor=white)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![MYSQL](https://img.shields.io/static/v1?style=for-the-badge&message=MYSQL&color=DC382D&logo=MYSQL&logoColor=FFFFFF&label=)
@@ -44,6 +44,7 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=)
+![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=D22128&logo=AWS&logoColor=FFFFFF&label=)
 ![Github](https://img.shields.io/static/v1?style=for-the-badge&message=Github&color=DC382D&logo=Github&logoColor=FFFFFF&label=)
 
 
@@ -61,9 +62,8 @@
 
 ## 🔗 Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/osama-anwar-developer/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/osama3101995)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:o.a3101995@gmail.com)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ikenna-udemezue/)
+
 
 <!---
 iykethe1st/iykethe1st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
