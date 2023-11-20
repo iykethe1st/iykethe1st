@@ -16,18 +16,15 @@
 
 ### Front-End Development
 
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![react](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)
 ![nextjs](https://img.shields.io/badge/NextJS-00DC82?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![vue](https://img.shields.io/badge/VueJS-0769AD?style=for-the-badge&logo=vue&logoColor=white)
 ![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-4285F4?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![react](https://img.shields.io/badge/React-0769AD?style=for-the-badge&logo=react&logoColor=white)
-![vue](https://img.shields.io/badge/Vue-0769AD?style=for-the-badge&logo=vue&logoColor=white)
 ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
 
 ### Back-End Development
