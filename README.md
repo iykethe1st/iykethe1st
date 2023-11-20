@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @iykethe1st
-- 🌱 Software Engineer 
-- 📫 reach me: iykethe1st@gmail.com. 
-- Discord: the1st#0223 
-- Twitter: IroncladCodes
+- 👋 Iykethe1st
+- 🌱 FullStack Software Engineer | Blockchain/Web3 
+- 📫 iykethe1st@gmail.com. 
+- Discord: the1st#0223
+- [![twitter](https://img.shields.io/badge/twitter-0769AD?style=for-the-badge&logo=twitter&logoColor=white)(https://twitter.com/X_Ikenna)
+]
 - 👀 Astral 5D!
 
 
