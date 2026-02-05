@@ -1,7 +1,6 @@
 - 👋 Iykethe1st
 - 🌱 FullStack Software Engineer | Blockchain/Web3 
 - 📫 iykethe1st@gmail.com. 
-- Discord: the1st#0223
 
 
 ## 🛠️ Skills
